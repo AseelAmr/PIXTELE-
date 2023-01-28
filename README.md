@@ -48,6 +48,13 @@ I would also appreciate it if you could donate it to me via PayPal:
 
 paypal.me/AseelAmr
 
+<p>
+  <a href="https://www.paypal.me/AbdennourT/10">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+
+
 Thank you for using PIXTELE!
 Credit
 This project is created by https://github.com/AseelAmr
