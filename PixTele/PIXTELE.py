@@ -4,7 +4,7 @@ import json
 import random
 
 
-bot = telebot.TeleBot("5915108277:AAHh4pN_GFr0-klL579CQhV0nolNz6Y5nTQ")
+bot = telebot.TeleBot("Enter Your Telegram token here!")
 
 
 # URL of website with welcome images
