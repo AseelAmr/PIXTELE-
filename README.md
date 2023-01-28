@@ -46,10 +46,10 @@ If you want to contribute to this project or if you have any suggestions, please
 
 I would also appreciate it if you could donate it to me via PayPal:
 
-paypal.me/
+
 
 <p>
-  <a href="https://www.paypal.me/AseelAmr/10">
+  <a href="https://www.paypal.me/AseelAmr">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
